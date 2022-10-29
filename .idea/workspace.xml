@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/dao/UserInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/dao/mysql/UserInfoMySqlDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/dao/oracle/UserInfoOracleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/web/userInfo/UserInfoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch14/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch14/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch14/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch14/CompleteCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter3/ch13/domain/userinfo/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter3/ch13/domain/userinfo/dao/UserInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter3/ch13/domain/userinfo/dao/mysql/UserInfoMySqlDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter3/ch13/domain/userinfo/dao/oracle/UserInfoOracleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter3/ch13/web/userinfo/UserInfoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter3/db.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,37 +58,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taeheoki/Desktop/Git/FAST_JAVA/Java/src/main/java/Chapter3/ch08&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/taeheoki/Desktop/Git/FAST_JAVA/Java/src/main/java/Chapter3/ch14",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Chapter2.ch24" />
       <recent name="Chpater2.ch14" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch14" />
+      <recent name="$PROJECT_DIR$/src/test/java/Chparter3/ch13/domain/userinfo" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch08" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch06" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch04" />
-      <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch03" />
-      <recent name="$PROJECT_DIR$/src/main/java/Chpater2/ch17" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter3.ch14" />
       <recent name="Chapter2.ch21" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.UserInfoClient">
+  <component name="RunManager" selected="애플리케이션.Chapter3.ch14.CalculatorTest">
     <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.ch11.CalculatorTest" />
       <module name="Java.main" />
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch10.CarTest" />
-      <module name="Java.main" />
+    <configuration name="Chapter3.ch13.web.userinfo.UserInfoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch13.web.userinfo.UserInfoClient" />
+      <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch10.*" />
+          <option name="PATTERN" value="Chapter3.ch13.web.userinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch09.ComputerTest" />
+    <configuration name="Chapter3.ch14.CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch14.CalculatorTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch09.*" />
+          <option name="PATTERN" value="Chapter3.ch14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Chapter3.ch14.CalculatorTest" />
+        <item itemvalue="애플리케이션.Chapter3.ch13.web.userinfo.UserInfoClient" />
         <item itemvalue="애플리케이션.UserInfoClient" />
         <item itemvalue="애플리케이션.CalculatorTest" />
         <item itemvalue="애플리케이션.UsingDefine" />
-        <item itemvalue="애플리케이션.CarTest" />
-        <item itemvalue="애플리케이션.ComputerTest" />
       </list>
     </recent_temporary>
   </component>

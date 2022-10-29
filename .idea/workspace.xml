@@ -5,37 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch02/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch02/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch02/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch03/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch03/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch03/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch04/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch04/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch04/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch05/TestMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch06/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch06/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch06/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch06/GoldCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch06/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch08/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch09/ComputerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch09/Computher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch09/Desktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch09/MyNoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch09/NoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch10/AICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch10/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch10/Define.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch10/ManualCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch10/UsingDefine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch11/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch11/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch11/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch11/CompleteCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/dao/UserInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/dao/mysql/UserInfoMySqlDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/domain/userinfo/dao/oracle/UserInfoOracleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3/ch13/web/userInfo/UserInfoClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,11 +77,14 @@
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch03" />
       <recent name="$PROJECT_DIR$/src/main/java/Chpater2/ch17" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch13" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Chapter2.ch21" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.CalculatorTest">
+  <component name="RunManager" selected="애플리케이션.UserInfoClient">
     <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.ch11.CalculatorTest" />
       <module name="Java.main" />
@@ -133,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter3.ch08.AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch08.AnimalTest" />
+    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch09.ComputerTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch08.*" />
+          <option name="PATTERN" value="Chapter3.ch09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch09.ComputerTest" />
+    <configuration name="UserInfoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch13.web.userInfo.UserInfoClient" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch09.*" />
+          <option name="PATTERN" value="Chapter3.ch13.web.userInfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.UserInfoClient" />
         <item itemvalue="애플리케이션.CalculatorTest" />
         <item itemvalue="애플리케이션.UsingDefine" />
         <item itemvalue="애플리케이션.CarTest" />
         <item itemvalue="애플리케이션.ComputerTest" />
-        <item itemvalue="애플리케이션.Chapter3.ch08.AnimalTest" />
       </list>
     </recent_temporary>
   </component>

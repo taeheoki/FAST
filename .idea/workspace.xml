@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ArrayListLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ArrayListLinkedListTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ExpValidCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/QueueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/StackEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/StackQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/Bingo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ComparatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetLotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/IteratorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/Iteratorex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ListIteratorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/PriorityQueueEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +61,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taeheoki/Desktop/Git/FAST_JAVA/src/main/java/Chapter5/ch15&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "liberica-11",
+    "last_opened_file_path": "/Users/taeheoki/Desktop/Git/FAST_JAVA/src/test/java/Chapter6/Test",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Chapter3.ch16.gamelevel" />
@@ -74,11 +80,11 @@
       <recent name="Chpater2.ch14" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Chapter6/Test" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter5/ch15" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter5/ch14" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter5/ch13" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter5/ch08" />
-      <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
@@ -92,9 +98,9 @@
       <recent name="Chapter5.ch05" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.QueueEx1">
-    <configuration name="ArrayListLinkedListTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.ArrayListLinkedListTest2" />
+  <component name="RunManager" selected="애플리케이션.HashSetEx4 (2)">
+    <configuration name="HashSetEx3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx3" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpValidCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.ExpValidCheck" />
+    <configuration name="HashSetEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx3" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.QueueEx1" />
+    <configuration name="HashSetEx4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx4" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.StackEx1" />
+    <configuration name="HashSetEx4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx4" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackQueueEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.StackQueueEx" />
+    <configuration name="HashSetEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx4" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.QueueEx1" />
-        <item itemvalue="애플리케이션.ExpValidCheck" />
-        <item itemvalue="애플리케이션.StackEx1" />
-        <item itemvalue="애플리케이션.StackQueueEx" />
-        <item itemvalue="애플리케이션.ArrayListLinkedListTest2" />
+        <item itemvalue="애플리케이션.HashSetEx4 (2)" />
+        <item itemvalue="애플리케이션.HashSetEx4 (1)" />
+        <item itemvalue="애플리케이션.HashSetEx3" />
+        <item itemvalue="애플리케이션.HashSetEx4" />
+        <item itemvalue="애플리케이션.HashSetEx3 (2)" />
       </list>
     </recent_temporary>
   </component>

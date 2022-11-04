@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/Bingo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ComparatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetLotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/IteratorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/Iteratorex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/ListIteratorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/PriorityQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashMapEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/HashSetEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/TreeSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/TreeSetEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/TreeSetLotto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/MyVector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,9 +91,9 @@
       <recent name="Chapter5.ch05" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.HashSetEx4 (2)">
-    <configuration name="HashSetEx3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx3" />
+  <component name="RunManager" selected="애플리케이션.HashMapEx2">
+    <configuration name="HashMapEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashMapEx1" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx3" />
+    <configuration name="HashMapEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashMapEx2" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx4" />
+    <configuration name="TreeSetEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.TreeSetEx1" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx4" />
+    <configuration name="TreeSetEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.TreeSetEx2" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -151,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.HashSetEx4" />
+    <configuration name="TreeSetLotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Test.TreeSetLotto" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -166,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.HashSetEx4 (2)" />
-        <item itemvalue="애플리케이션.HashSetEx4 (1)" />
-        <item itemvalue="애플리케이션.HashSetEx3" />
-        <item itemvalue="애플리케이션.HashSetEx4" />
-        <item itemvalue="애플리케이션.HashSetEx3 (2)" />
+        <item itemvalue="애플리케이션.HashMapEx2" />
+        <item itemvalue="애플리케이션.HashMapEx1" />
+        <item itemvalue="애플리케이션.TreeSetEx2" />
+        <item itemvalue="애플리케이션.TreeSetEx1" />
+        <item itemvalue="애플리케이션.TreeSetLotto" />
       </list>
     </recent_temporary>
   </component>

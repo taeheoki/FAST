@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch01/AnonymousInnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch01/InnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch01/LocalInnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch02/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch02/AddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch03/MyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch03/MyNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch04/StringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch04/StringConcatImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch04/StringConcatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Chapter6/Test/TreeMapEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch05/ArrayListStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch05/IntArrayStreamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +87,7 @@
       <recent name="Chapter5.ch05" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StringConcatTest">
+  <component name="RunManager" selected="애플리케이션.ArrayListStreamTest">
     <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6.ch02.AddTest" />
       <module name="Java.main" />
@@ -112,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousInnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch01.AnonymousInnerTest" />
+    <configuration name="ArrayListStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch05.ArrayListStreamTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch01.*" />
+          <option name="PATTERN" value="Chapter6.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalInnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch01.LocalInnerTest" />
+    <configuration name="IntArrayStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch05.IntArrayStreamTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch01.*" />
+          <option name="PATTERN" value="Chapter6.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ArrayListStreamTest" />
+        <item itemvalue="애플리케이션.IntArrayStreamTest" />
         <item itemvalue="애플리케이션.StringConcatTest" />
         <item itemvalue="애플리케이션.MyNumberTest" />
         <item itemvalue="애플리케이션.AddTest" />
-        <item itemvalue="애플리케이션.AnonymousInnerTest" />
-        <item itemvalue="애플리케이션.LocalInnerTest" />
       </list>
     </recent_temporary>
   </component>

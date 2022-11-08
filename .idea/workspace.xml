@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch17/SerializationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch18/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch18/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch18/random.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/CoffeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/EtiopiaAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/KeyaAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch19/WhippingCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch20/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch20/ThreadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch21/JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch21/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch21/TerminateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch22/SyncMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch23/LibraryMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +93,13 @@
       <recent name="Chapter5.ch13" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ThreadTest2">
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch20.ThreadTest" />
+  <component name="RunManager" selected="애플리케이션.LibraryMain (1)">
+    <configuration name="LibraryMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch23.LibraryMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch20.*" />
+          <option name="PATTERN" value="Chapter6.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch20.ThreadTest2" />
+    <configuration name="LibraryMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch23.LibraryMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch20.*" />
+          <option name="PATTERN" value="Chapter6.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch20.ThreadTest2" />
+    <configuration name="LibraryMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch23.LibraryMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch20.*" />
+          <option name="PATTERN" value="Chapter6.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch20.ThreadTest2" />
+    <configuration name="LibraryMain (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch23.LibraryMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch20.*" />
+          <option name="PATTERN" value="Chapter6.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreadTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.ch20.TreadTest" />
+    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.ch23.LibraryMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.ch20.*" />
+          <option name="PATTERN" value="Chapter6.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ThreadTest2" />
-        <item itemvalue="애플리케이션.ThreadTest2 (2)" />
-        <item itemvalue="애플리케이션.ThreadTest2 (1)" />
-        <item itemvalue="애플리케이션.ThreadTest" />
-        <item itemvalue="애플리케이션.TreadTest (2)" />
+        <item itemvalue="애플리케이션.LibraryMain (1)" />
+        <item itemvalue="애플리케이션.LibraryMain" />
+        <item itemvalue="애플리케이션.LibraryMain (5)" />
+        <item itemvalue="애플리케이션.LibraryMain (4)" />
+        <item itemvalue="애플리케이션.LibraryMain (3)" />
       </list>
     </recent_temporary>
   </component>

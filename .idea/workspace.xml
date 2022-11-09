@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/BindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/ExceptionEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/InnerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/InnerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/InterfaceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/InterfaceTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/PolyArgumentTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/StaticImportEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch7/TryWithResourceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter6/ch23/LibraryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch23/LibraryMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +95,13 @@
       <recent name="Chapter5.ch13" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.InterfaceTest3">
-    <configuration name="ExceptionEx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.ExceptionEx9" />
+  <component name="RunManager" selected="애플리케이션.ThreadEx7">
+    <configuration name="ThreadEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx3" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.InnerEx1" />
+    <configuration name="ThreadEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx4" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest3 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.InterfaceTest3" />
+    <configuration name="ThreadEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx5" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.InterfaceTest3" />
+    <configuration name="ThreadEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx6" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.TryWithResourceEx" />
+    <configuration name="ThreadEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx7" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.InterfaceTest3" />
-        <item itemvalue="애플리케이션.TryWithResourceEx" />
-        <item itemvalue="애플리케이션.ExceptionEx9" />
-        <item itemvalue="애플리케이션.InnerEx1" />
-        <item itemvalue="애플리케이션.InterfaceTest3 (5)" />
+        <item itemvalue="애플리케이션.ThreadEx7" />
+        <item itemvalue="애플리케이션.ThreadEx6" />
+        <item itemvalue="애플리케이션.ThreadEx5" />
+        <item itemvalue="애플리케이션.ThreadEx4" />
+        <item itemvalue="애플리케이션.ThreadEx3" />
       </list>
     </recent_temporary>
   </component>
@@ -200,5 +195,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalThreadStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

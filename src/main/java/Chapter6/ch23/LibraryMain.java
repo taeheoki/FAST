@@ -17,15 +17,18 @@ class FastLibrary{
 
         Thread t = Thread.currentThread();
 
-        if(shelf.size() == 0 ) {
+        while (shelf.size() == 0 ) {
             System.out.println(t.getName() + " waiting start");
             wait();
             System.out.println(t.getName() + " waiting end");
         }
-        String book = shelf.remove(0);
-        System.out.println(t.getName() + ": " + book + " lend");
-
-        return book;
+        if (shelf.size() > 0) {
+            String book = shelf.remove(0);
+            System.out.println(t.getName() + ": " + book + " lend");
+            return book;
+        }
+        else
+            return null;
     }
 
     public synchronized void returnBook(String book){

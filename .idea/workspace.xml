@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,33 +89,7 @@
       <recent name="Chapter5.ch13" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ThreadEx7">
-    <configuration name="ThreadEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx3" />
-      <module name="Java.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx4" />
-      <module name="Java.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.ThreadEx8 (1)">
     <configuration name="ThreadEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx5" />
       <module name="Java.test" />
@@ -161,13 +129,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadEx8 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx8" />
+      <module name="Java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx8" />
+      <module name="Java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ThreadEx8 (1)" />
+        <item itemvalue="애플리케이션.ThreadEx8" />
         <item itemvalue="애플리케이션.ThreadEx7" />
         <item itemvalue="애플리케이션.ThreadEx6" />
         <item itemvalue="애플리케이션.ThreadEx5" />
-        <item itemvalue="애플리케이션.ThreadEx4" />
-        <item itemvalue="애플리케이션.ThreadEx3" />
       </list>
     </recent_temporary>
   </component>

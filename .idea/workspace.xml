@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadEx11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch13" />
       <recent name="Chapter3.ch16.gamelevel" />
       <recent name="Chapter2.ch24" />
       <recent name="Chpater2.ch14" />
@@ -89,9 +91,9 @@
       <recent name="Chapter5.ch13" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ThreadEx9">
-    <configuration name="ThreadEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx6" />
+  <component name="RunManager" selected="애플리케이션.ThreadEx11">
+    <configuration name="ThreadEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx10" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx7" />
+    <configuration name="ThreadEx11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ThreadEx11" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ThreadEx11" />
+        <item itemvalue="애플리케이션.ThreadEx10" />
         <item itemvalue="애플리케이션.ThreadEx9" />
         <item itemvalue="애플리케이션.ThreadEx8 (1)" />
         <item itemvalue="애플리케이션.ThreadEx8" />
-        <item itemvalue="애플리케이션.ThreadEx7" />
-        <item itemvalue="애플리케이션.ThreadEx6" />
       </list>
     </recent_temporary>
   </component>

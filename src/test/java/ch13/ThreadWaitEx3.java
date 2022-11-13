@@ -73,7 +73,9 @@ class Table {
                 try {
                     wait(); // CUST쓰레드를 기다리게 한다.
                     Thread.sleep(500);
-                } catch(InterruptedException e) {}
+                } catch(InterruptedException e) {
+
+                }
             }
 
             while(true) {

@@ -109,5 +109,6 @@ public class ThreadWaitEx3 {
 
         Thread.sleep(2000);
         System.exit(0);
+
     }
 }

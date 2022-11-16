@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/IOEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ch13/ThreadWaitEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch13/ThreadWaitEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +90,13 @@
       <recent name="Chapter5.ch13" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ThreadWaitEx3 (4)">
-    <configuration name="ThreadWaitEx3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadWaitEx3" />
+  <component name="RunManager" selected="애플리케이션.IOEx1">
+    <configuration name="IOEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.IOEx1" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13.*" />
+          <option name="PATTERN" value="ch15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.IOEx1" />
         <item itemvalue="애플리케이션.ThreadWaitEx3 (4)" />
         <item itemvalue="애플리케이션.ThreadWaitEx3 (3)" />
         <item itemvalue="애플리케이션.ThreadWaitEx3" />
         <item itemvalue="애플리케이션.ThreadWaitEx3 (2)" />
-        <item itemvalue="애플리케이션.ThreadWaitEx3 (1)" />
       </list>
     </recent_temporary>
   </component>

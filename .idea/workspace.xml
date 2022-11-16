@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/BufferedOutputStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/DataInputStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/DataInputStreamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/DataInputStreamEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/DataOutputStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/DataOutputStreamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/DataOutputStreamEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/BufferedReaderEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/FileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/FileReaderEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/InputStreamReaderEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/RandomAccessFileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/RandomAccessFileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/RandomAccessFileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/SequenceInputStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/StandardIOex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/StringReaderWriterEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score.dat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +89,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Chapter5/ch14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter6/ch16" />
       <recent name="$PROJECT_DIR$/src/main/java/Chapter6/ch14" />
       <recent name="$PROJECT_DIR$/src/test/java" />
@@ -96,9 +103,9 @@
       <recent name="Chapter6.Test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.DataInputStreamEx3">
-    <configuration name="DataInputStreamEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.DataInputStreamEx1" />
+  <component name="RunManager" selected="애플리케이션.FileEx1">
+    <configuration name="FileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.FileEx1" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataInputStreamEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.DataInputStreamEx2" />
+    <configuration name="RandomAccessFileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.RandomAccessFileEx1" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataInputStreamEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.DataInputStreamEx3" />
+    <configuration name="RandomAccessFileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.RandomAccessFileEx2" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataOutputStreamEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.DataOutputStreamEx1" />
+    <configuration name="RandomAccessFileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.RandomAccessFileEx3" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataOutputStreamEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.DataOutputStreamEx3" />
+    <configuration name="StandardIOex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.StandardIOex1" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
@@ -164,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.DataInputStreamEx3" />
-        <item itemvalue="애플리케이션.DataInputStreamEx2" />
-        <item itemvalue="애플리케이션.DataOutputStreamEx3" />
-        <item itemvalue="애플리케이션.DataInputStreamEx1" />
-        <item itemvalue="애플리케이션.DataOutputStreamEx1" />
+        <item itemvalue="애플리케이션.FileEx1" />
+        <item itemvalue="애플리케이션.RandomAccessFileEx3" />
+        <item itemvalue="애플리케이션.RandomAccessFileEx2" />
+        <item itemvalue="애플리케이션.RandomAccessFileEx1" />
+        <item itemvalue="애플리케이션.StandardIOex1" />
       </list>
     </recent_temporary>
   </component>

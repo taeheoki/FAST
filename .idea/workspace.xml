@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/IOEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/FileViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/IOEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/IOEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,14 +86,27 @@
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch15" />
       <recent name="Chapter6.ch19" />
       <recent name="Chapter6.ch14" />
       <recent name="Chapter5.ch15" />
       <recent name="Chapter6.Test" />
-      <recent name="Chapter5.ch13" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.IOEx1">
+  <component name="RunManager" selected="애플리케이션.FileViewer">
+    <configuration name="FileViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.FileViewer" />
+      <module name="Java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IOEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch15.IOEx1" />
       <module name="Java.test" />
@@ -104,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadWaitEx3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadWaitEx3" />
+    <configuration name="IOEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.IOEx2" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13.*" />
+          <option name="PATTERN" value="ch15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadWaitEx3 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadWaitEx3" />
+    <configuration name="IOEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.IOEx3" />
       <module name="Java.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13.*" />
+          <option name="PATTERN" value="ch15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,26 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadWaitEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ThreadWaitEx3" />
-      <module name="Java.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.FileViewer" />
+        <item itemvalue="애플리케이션.IOEx3" />
+        <item itemvalue="애플리케이션.IOEx2" />
         <item itemvalue="애플리케이션.IOEx1" />
         <item itemvalue="애플리케이션.ThreadWaitEx3 (4)" />
-        <item itemvalue="애플리케이션.ThreadWaitEx3 (3)" />
-        <item itemvalue="애플리케이션.ThreadWaitEx3" />
-        <item itemvalue="애플리케이션.ThreadWaitEx3 (2)" />
       </list>
     </recent_temporary>
   </component>

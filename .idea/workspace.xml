@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/grade/BasicEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/grade/GradeEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/grade/MajorEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/grade/PassFailEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/school/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/school/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/school/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/school/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/school/report/GenerateGradeReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/test/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/bonus/utils/Define.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/grade/BasicEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/grade/GradeEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/grade/MajorEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/school/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/school/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/school/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/school/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/school/report/GenerateGradeReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/test/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter7/mandatory/utils/Define.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/MinMaxProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch15/FileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch2/BinarySearchProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter8/MinMaxProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch1/MinMaxProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,18 +51,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "liberica-11",
-    "last_opened_file_path": "/Users/taeheoki/Desktop/Git/FAST_JAVA/src/main/java/Chapter7/bonus",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/taeheoki/Desktop/Git/FAST_JAVA/src/main/java/Chapter7/bonus&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ch13" />
@@ -113,13 +92,13 @@
       <recent name="Chapter6.Test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MinMaxProblem">
-    <configuration name="Chapter7.bonus.test.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.bonus.test.TestMain" />
+  <component name="RunManager" selected="애플리케이션.BinarySearchProblem">
+    <configuration name="BinarySearchProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch2.BinarySearchProblem" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.bonus.test.*" />
+          <option name="PATTERN" value="Chapter8.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.FileEx1" />
-      <module name="Java.test" />
+    <configuration name="Chapter7.bonus.test.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.bonus.test.TestMain" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15.*" />
+          <option name="PATTERN" value="Chapter7.bonus.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="MinMaxProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.MinMaxProblem" />
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch1.MinMaxProblem" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.*" />
+          <option name="PATTERN" value="Chapter8.ch1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BinarySearchProblem" />
         <item itemvalue="애플리케이션.MinMaxProblem" />
         <item itemvalue="애플리케이션.Chapter7.bonus.test.TestMain" />
         <item itemvalue="애플리케이션.TestMain" />
         <item itemvalue="애플리케이션.FileEx4" />
-        <item itemvalue="애플리케이션.FileEx1" />
       </list>
     </recent_temporary>
   </component>

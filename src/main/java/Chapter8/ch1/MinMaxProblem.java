@@ -1,4 +1,4 @@
-package Chapter8;
+package Chapter8.ch1;
 
 public class MinMaxProblem {
     public static void main(String[] args) {

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch2/BinarySearchProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch3/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch3/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter8/MinMaxProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch1/MinMaxProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <recent name="Chapter6.Test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BinarySearchProblem">
+  <component name="RunManager" selected="애플리케이션.HeapSort">
     <configuration name="BinarySearchProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter8.ch2.BinarySearchProblem" />
       <module name="Java.main" />
@@ -119,12 +119,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.FileEx4" />
-      <module name="Java.test" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch3.HeapSort" />
+      <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15.*" />
+          <option name="PATTERN" value="Chapter8.ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch3.InsertionSort" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter8.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,26 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.test.TestMain" />
-      <module name="Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter7.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.HeapSort" />
+        <item itemvalue="애플리케이션.InsertionSort" />
         <item itemvalue="애플리케이션.BinarySearchProblem" />
         <item itemvalue="애플리케이션.MinMaxProblem" />
         <item itemvalue="애플리케이션.Chapter7.bonus.test.TestMain" />
-        <item itemvalue="애플리케이션.TestMain" />
-        <item itemvalue="애플리케이션.FileEx4" />
       </list>
     </recent_temporary>
   </component>

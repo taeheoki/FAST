@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5dd6ba5-20b3-478f-944e-1f35561e5bcf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch3/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch3/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch10/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch4/BfsSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch4/DfsSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch4/UndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch5/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch6/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch6/MazeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch6/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch6/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch7/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch8/GreedyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter8/ch9/BruteForceSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter6/ch15/FileReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter6/ch15/FileReaderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +71,7 @@
     &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -85,20 +96,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter8.ch4" />
       <recent name="ch15" />
       <recent name="Chapter6.ch19" />
       <recent name="Chapter6.ch14" />
       <recent name="Chapter5.ch15" />
-      <recent name="Chapter6.Test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.HeapSort">
-    <configuration name="BinarySearchProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.ch2.BinarySearchProblem" />
+  <component name="RunManager" selected="애플리케이션.Counting">
+    <configuration name="BruteForceSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch9.BruteForceSearch" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.ch2.*" />
+          <option name="PATTERN" value="Chapter8.ch9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter7.bonus.test.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.bonus.test.TestMain" />
+    <configuration name="Counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch10.Counting" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.bonus.test.*" />
+          <option name="PATTERN" value="Chapter8.ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.ch3.HeapSort" />
+    <configuration name="FibonacciTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch7.FibonacciTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.ch3.*" />
+          <option name="PATTERN" value="Chapter8.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.ch3.InsertionSort" />
+    <configuration name="GreedyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch8.GreedyTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.ch3.*" />
+          <option name="PATTERN" value="Chapter8.ch8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.ch1.MinMaxProblem" />
+    <configuration name="MazeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.ch6.MazeTest" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.ch1.*" />
+          <option name="PATTERN" value="Chapter8.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.HeapSort" />
-        <item itemvalue="애플리케이션.InsertionSort" />
-        <item itemvalue="애플리케이션.BinarySearchProblem" />
-        <item itemvalue="애플리케이션.MinMaxProblem" />
-        <item itemvalue="애플리케이션.Chapter7.bonus.test.TestMain" />
+        <item itemvalue="애플리케이션.Counting" />
+        <item itemvalue="애플리케이션.BruteForceSearch" />
+        <item itemvalue="애플리케이션.GreedyTest" />
+        <item itemvalue="애플리케이션.FibonacciTest" />
+        <item itemvalue="애플리케이션.MazeTest" />
       </list>
     </recent_temporary>
   </component>

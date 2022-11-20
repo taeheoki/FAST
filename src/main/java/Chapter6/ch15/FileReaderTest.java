@@ -1,6 +1,5 @@
 package Chapter6.ch15;
 
-import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
 

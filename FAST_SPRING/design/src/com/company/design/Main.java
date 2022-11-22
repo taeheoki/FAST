@@ -1,24 +1,28 @@
 package com.company.design;
 
-import com.company.design.singleton.AClazz;
-import com.company.design.singleton.BClazz;
-import com.company.design.singleton.CClazz;
-import com.company.design.singleton.SocketClient;
+import com.company.design.strategy.*;
 
 public class Main {
     public static void main(String[] args) {
-        AClazz aClazz = new AClazz();
-        BClazz bClazz = new BClazz();
-        CClazz cClazz = new CClazz();
+        Encoder encoder = new Encoder();
 
-        SocketClient aClient = aClazz.getSocketClient();
-        SocketClient bClient = bClazz.getSocketClient();
-        SocketClient cClient = cClazz.getSocketClient();
+        // base64
+        EncodingStrategy base64 = new Base64Strategy();
 
-        System.out.println("두개의 객체가 동일한가?(aClient, bClient)");
-        System.out.println(aClient.equals(bClient));
+        // normal
+        EncodingStrategy nomal = new NormalStrategy();
 
-        System.out.println("두개의 객체가 동일한가?(aClient, cClient)");
-        System.out.println(aClient.equals(bClient));
+        String message = "hello java";
+        encoder.setEncodingStrategy(base64);
+        String base64Result = encoder.getMessage(message);
+        System.out.println(base64Result);
+
+        encoder.setEncodingStrategy(nomal);
+        String normalResult = encoder.getMessage(message);
+        System.out.println(normalResult);
+
+        encoder.setEncodingStrategy(new AppendStrategy());
+        String appendResult = encoder.getMessage(message);
+        System.out.println(appendResult);
     }
 }

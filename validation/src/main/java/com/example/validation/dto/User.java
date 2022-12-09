@@ -1,6 +1,9 @@
 package com.example.validation.dto;
 
-import javax.validation.constraints.*;
+import javax.validation.Valid;
+import javax.validation.constraints.Max;
+import javax.validation.constraints.NotBlank;
+import java.util.List;
 
 public class User {
 
@@ -10,11 +13,10 @@ public class User {
     @Max(value = 90)
     private int age;
 
-    @Email
     private String email;
 
-    @Pattern(regexp = "^\\d{2,3}-\\d{3,4}-\\d{4}$", message = "핸드폰 번호의 양식과 맞지 않습니다. 01x-xxx(x)-xxxx")
-    private String phoneNumber;
+    @Valid
+    private List<Car> cars;
 
     public String getName() {
         return name;
@@ -40,12 +42,12 @@ public class User {
         this.email = email;
     }
 
-    public String getPhoneNumber() {
-        return phoneNumber;
+    public List<Car> getCars() {
+        return cars;
     }
 
-    public void setPhoneNumber(String phoneNumber) {
-        this.phoneNumber = phoneNumber;
+    public void setCars(List<Car> cars) {
+        this.cars = cars;
     }
 
     @Override
@@ -54,7 +56,7 @@ public class User {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", email='" + email + '\'' +
-                ", phoneNumber='" + phoneNumber + '\'' +
+                ", cars=" + cars +
                 '}';
     }
 }
